@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+**/*.galaxy_install_info
+**/*.idea
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.log
+**/*.retry
+**/.DS_Store
+**/.flattened-pom.xml
+**/.npmrc
+**/.vagrant
+**/bower_components
+**/builds
+**/dependency-reduced-pom.xml
+**/node_modules
+**/overlays
+**/package-lock.json
+**/projectFilesBackup*
+**/target
+**/webapp_build
+**/.hook*
+.project
+.settings/
+.classpath
